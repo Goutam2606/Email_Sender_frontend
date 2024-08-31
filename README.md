@@ -1,5 +1,5 @@
-# MERN Email Sender
-A full-stack application for sending emails built with the MERN stack (MongoDB, Express, React, Node.js) and Nodemailer.
+# Email Sender
+A full-stack application for sending emails built with the (React, Node.js, Express) and Nodemailer.
 
 ## Features
 ### Frontend: Developed with React, including Axios for making HTTP requests to the backend.
